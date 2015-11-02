@@ -2,6 +2,7 @@ name: ExpertEmployee
 favicon: null
 layout_spectrum: 0.64201
 typography_spectrum: 0.008652381598949432
+title: Expert Employee
 cta:
   domain: null
   bucket: null
