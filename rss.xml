@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ExpertEmployee]]></title>
-        <description><![CDATA[ExpertEmployee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Expert Employee]]></title>
+        <description><![CDATA[Expert Employee]]></description>
+        <link>https://thegrid.ai/expertemployee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 18:46:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 19:08:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/expertemployee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Expert Employee - Revealing insider secrets from the corporate world that Executive Leaders and Human Resources do not want their employees to know.</p>]]></description>
-            <link>undefinedmission-statement-for-expert-employee/index.html</link>
+            <title><![CDATA[Expert Employee]]></title>
+            <description><![CDATA[<article><h1>Expert Employee</h1><p>Revealing insider secrets from the corporate world that Executive Leaders and Human Resources do not want their employees to know.</p></article>]]></description>
+            <link>https://thegrid.ai/expertemployee/mission-statement-for-expert-employee/index.html</link>
             <guid isPermaLink="false">e2078089-cc5f-451d-a037-1a4c45c05e99</guid>
-            <pubDate>Mon, 02 Nov 2015 18:45:52 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2015 19:08:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
