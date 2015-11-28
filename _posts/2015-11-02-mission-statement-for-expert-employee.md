@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mission statement for Expert Employee
-datePublished: '2015-11-02T19:08:38.843Z'
-dateModified: '2015-11-02T19:08:19.856Z'
+datePublished: '2015-11-28T01:16:22.765Z'
+dateModified: '2015-11-28T01:16:04.480Z'
 title: Expert Employee
 sourcePath: _posts/2015-11-02-mission-statement-for-expert-employee.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,4 +22,6 @@ url: mission-statement-for-expert-employee/index.html
 _type: Article
 
 ---
-Revealing insider secrets from the corporate world that Executive Leaders and Human Resources do not want their employees to know.
+Advance your career with professional insights from ExpertEmployee.com
+
+We share insider information that corporate executives do not want employees to know. Level the playing field when dealing with human resources and come out on top.
