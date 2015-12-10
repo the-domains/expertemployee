@@ -1,24 +1,14 @@
-name: ExpertEmployee
-favicon: null
-layout_spectrum: 0.58542
-typography_spectrum: 0.008652381598949432
-title: Expert Employee
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-32113089-5
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.15642531868070364
   lightness: 0.6681242506019771
-  saturation: 0.28835593280382454
   rhythmicContrast: 0.5918439249508083
+  saturation: 0.28835593280382454
+cta: {}
+layout_spectrum: 0.58542
+name: ExpertEmployee
+opengraph: {}
 purpose: []
+typography_spectrum: 0.008652381598949432
