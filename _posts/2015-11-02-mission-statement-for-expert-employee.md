@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mission statement for Expert Employee
-datePublished: '2015-11-28T01:16:22.765Z'
-dateModified: '2015-11-28T01:16:04.480Z'
+datePublished: '2015-12-13T02:31:15.942Z'
+dateModified: '2015-11-28T01:16:22.765Z'
 title: Expert Employee
 sourcePath: _posts/2015-11-02-mission-statement-for-expert-employee.md
 published: true
