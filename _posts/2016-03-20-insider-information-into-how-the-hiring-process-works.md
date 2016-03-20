@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T15:03:14.985Z'
-dateModified: '2016-03-20T15:03:06.429Z'
+datePublished: '2016-03-20T15:11:47.291Z'
+dateModified: '2016-03-20T15:03:22.441Z'
 title: Insider Information Into How The Hiring Process Works
 author: []
+sourcePath: _posts/2016-03-20-insider-information-into-how-the-hiring-process-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-insider-information-into-how-the-hiring-process-works.md
-published: true
 url: insider-information-into-how-the-hiring-process-works/index.html
 _type: Article
 
