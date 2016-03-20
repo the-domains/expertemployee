@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T15:11:47.291Z'
-dateModified: '2016-03-20T15:03:22.441Z'
+datePublished: '2016-03-20T15:16:20.129Z'
+dateModified: '2016-03-20T15:11:55.911Z'
 title: Insider Information Into How The Hiring Process Works
 author: []
 sourcePath: _posts/2016-03-20-insider-information-into-how-the-hiring-process-works.md
